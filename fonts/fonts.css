@@ -1,0 +1,14 @@
+@font-face {
+    font-style: normal;
+    font-family: 'Poppins';
+    src: url('/assets/fonts/Poppins-Regular.ttf') format('ttf');
+    /* Add more src declarations for different font formats if necessary */
+}
+
+@font-face {
+    font-style: bold;
+    font-family: 'Poppins';
+    src: url('/assets/fonts/Poppins-Bold.ttf') format('ttf');
+    /* Add more src declarations for different font formats if necessary */
+}
+

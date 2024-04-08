@@ -1,0 +1,33 @@
+input[type="file"] {
+  display: none !important;
+}
+
+.input-file-cont{
+  border: 1px solid #546990;
+}
+
+.custom-file-label {
+  width: 100%;
+  position: relative;
+  padding: 0.65rem 0.8rem;
+  font-weight: 400;
+  color: #475F7B;
+  background-color: #283144;
+  border-radius: 0.267rem;
+}
+
+.custom-file-label .browse-text {
+  position: absolute;
+  content: "Browse";
+  top: 0;
+  right: 0;
+  z-index: 3;
+  height: 100%;
+  display: block;
+  padding: 0.65rem 0.8rem;
+  color: #fff;
+  background-color: #2d384d;
+  border-left: inherit;
+  border-radius: 0 0.267rem 0.267rem 0;
+}
+
