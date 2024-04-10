@@ -10472,7 +10472,7 @@ html:not([dir=rtl]) .progress .progress-bar:first-child {
   padding-left: 0;
 }
 [dir=rtl] .breadcrumb-item + .breadcrumb-item::before {
-  content: "\\";
+  content: "/";
   padding-right: 0;
   padding-left: 0.5rem;
   float: right;
